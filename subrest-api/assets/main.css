@@ -1,0 +1,7 @@
+
+form{
+    max-width: 200px;
+}
+input[type="text"] {
+    margin-bottom: 12px;
+}
